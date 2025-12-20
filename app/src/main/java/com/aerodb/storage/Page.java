@@ -23,7 +23,7 @@ public class Page {
     }
 
     //Getters
-    public int getID(){
+    public int getPageId(){
         return pageId;
     }
 
