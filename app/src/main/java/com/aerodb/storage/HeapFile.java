@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.io.File;
 import java.io.FileNotFoundException;
+import javax.management.RuntimeMBeanException;
 
 public class HeapFile {
     private File file;
