@@ -37,4 +37,7 @@ application {
     mainClass = 'com.aerodb.Main'
 }
 
+run {
+    standardInput = System.in
+}
 
